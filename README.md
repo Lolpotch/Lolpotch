@@ -13,6 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" /></a>
 - <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" /></a>
 - <img src="https://img.shields.io/badge/-DirBuster-FF4500?&style=for-the-badge&logo=OWASP&logoColor=white" /></a>
+- <img src="https://img.shields.io/badge/-Burp_Suite-FF4500?&style=for-the-badge&logo=Burp Suite&logoColor=white" />
 - <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 - <img src="https://img.shields.io/badge/-Metasploit-003E54?&style=for-the-badge&logo=Metasploit&logoColor=white" /></a>
 
