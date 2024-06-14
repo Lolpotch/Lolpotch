@@ -23,8 +23,10 @@ Currently studying cybersecurity and finished the following courses:
 - Intro to Cybersecurity by Cisco
 
 #### Key Projects
-- HackTheBox Walkthroughs
-- PicoCTF Walkthroughs
+- <a href="https://www.youtube.com/playlist?list=PLj8QP2AecOrQov8CAFWv65r0oR-ayWwg_">Linux tutorials</a>
+- <a href="https://play.google.com/store/apps/details?id=com.Lolpotch.Vigtor&hl=en">Vigtor - Password Generator</a>
+- <a href="https://www.youtube.com/playlist?list=PLj8QP2AecOrQ8sljBzZs7lblz0vgU5YnE">HackTheBox walkthroughs</a>
+- <a href="https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W">PicoCTF walkthroughs</a>
 - Scanning vulnurabilities with Nmap
 - Finding directories with Dirbuster
 - Packet sniffing with Wireshark
