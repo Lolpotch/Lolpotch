@@ -24,6 +24,7 @@ Currently studying cybersecurity and finished the following courses:
 - Intro to Cybersecurity by Cisco
 
 Key Projects:
+- Creating basic port scanner with Python
 - Scanning vulnurabilities with Nmap
 - Finding directories with Dirbuster
 - Packet sniffing with Wireshark
