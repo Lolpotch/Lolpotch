@@ -30,6 +30,7 @@ Key Projects:
 - Packet sniffing with Wireshark
 - Intercepting traffic and injecting payloads via Burp Suite
 - Exploiting with Metasploit
+- Gaining access in Kioptrix
 
 Other Projects:
 - <a href="https://www.youtube.com/playlist?list=PLj8QP2AecOrQov8CAFWv65r0oR-ayWwg_">Linux tutorials</a>
