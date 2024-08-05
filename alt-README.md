@@ -20,6 +20,7 @@ I made some video game projects with Unity:
 - [Dash!](https://lolpotch.itch.io/dash)
 - [Clean It!](https://lolpotch.itch.io/clean-it)
 - [Typing Adventure](https://lolpotch.itch.io/typing-adventure)
+- [Unity Youtube Tutorials](https://www.youtube.com/playlist?list=PLj8QP2AecOrRF9quEOtF7EuQU6pVwovjQ)
 
 I also won some competitions:
 - MARKODING! Finalist
