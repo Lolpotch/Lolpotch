@@ -1,4 +1,4 @@
-# Hello, I'm Chandra
+# Hello, I'm Chandra Tritaqwa Ramadhan
 <a href="https://linkedin.com/in/chandra-tritaqwa-ramadhan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://youtube.com/lolpotch"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://instagram.com/lolpotch"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -20,6 +20,11 @@ I made some video game projects with Unity:
 - [Dash!](https://lolpotch.itch.io/dash)
 - [Clean It!](https://lolpotch.itch.io/clean-it)
 - [Typing Adventure](https://lolpotch.itch.io/typing-adventure)
+
+I also won some competitions:
+- MARKODING! Finalist
+- Code For Social Change 2021
+- National Game Creation Competition 2020
 
 Other Projects:
 - <a href="https://www.youtube.com/playlist?list=PLj8QP2AecOrQov8CAFWv65r0oR-ayWwg_">Linux tutorials</a>
