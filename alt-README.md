@@ -8,7 +8,7 @@
 A networking and multimedia engineering student at Jakarta State Polytechnic. A cybersecurity enthusiast currently learning and gaining professional certificates to boost his future career. Loves tutoring.
 
 ## Objective
-My journey in computer science has led me to develop a passion for teaching, and I wish my knowledge will be useful for the broader community. 
+My journey in computer science has led me to develop a passion for teaching, and I wish my knowledge to be useful for the broader community. 
 
 ## Skills
 - <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /></a>
