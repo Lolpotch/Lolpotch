@@ -41,6 +41,7 @@ Other Projects:
 
 ## Certifications
 <div>
+<a href="https://www.credly.com/badges/2fb9d430-e2ad-4f0a-82fb-7cceca54f414/public_url"><img src="https://img.shields.io/badge/-Ethical_Hacker-29B6F6?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/779b0026-c34b-4165-bfc7-c673f4b0a82f/public_url"><img src="https://img.shields.io/badge/-Introduction_to_Cybersecurity-29B6F6?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
 <a href="https://verify.mygreatlearning.com/verify/EMDDXHGM"><img src="https://img.shields.io/badge/-Introduction_to_Ethical_Hacking-00C4CC?&style=for-the-badge&logo=Great-Learning&logoColor=white" /></a>
 </div>
