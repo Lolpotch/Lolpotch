@@ -23,6 +23,7 @@ Currently studying cybersecurity and finished the following courses:
 - Ethical Hacking Course by The Cyber Mentor (TCM)
 - Intro to Ethical Hacking by Great Learning
 - Intro to Cybersecurity by Cisco
+- Ethical Hacker by Cisco
 
 Key Projects:
 - Creating basic port scanner with Python
