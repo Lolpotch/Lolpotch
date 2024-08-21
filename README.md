@@ -33,7 +33,7 @@ Key Projects:
 - Packet sniffing with Wireshark
 - Intercepting traffic and injecting payloads via Burp Suite
 - Exploiting with Metasploit
-- Gaining access in Kioptrix
+- Gaining root access in Kioptrix vulnerable machine
 - Injections (XSS, SQLi, CSRF, SSRF)
 
 Other Projects:
