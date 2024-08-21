@@ -24,9 +24,10 @@ Currently studying cybersecurity and finished the following courses:
 - Intro to Ethical Hacking by Great Learning
 - Intro to Cybersecurity by Cisco
 - Ethical Hacker by Cisco
+- Portswigger Labs (currently studying)
 
 Key Projects:
-- Creating basic port scanner with Python
+- [Creating basic port scanner with Python](https://github.com/Lolpotch/homemade-tools/blob/main/basic-portscanner.py)
 - Scanning vulnurabilities with Nmap
 - Finding directories with Dirbuster
 - Packet sniffing with Wireshark
@@ -39,6 +40,7 @@ Other Projects:
 - [Linux tutorials](https://www.youtube.com/playlist?list=PLj8QP2AecOrQov8CAFWv65r0oR-ayWwg_)
 - [Vigtor - Password Generator](https://play.google.com/store/apps/details?id=com.Lolpotch.Vigtor&hl=en)
 - [HackTheBox walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrQ8sljBzZs7lblz0vgU5YnE)
+- [Homemade tools](https://github.com/Lolpotch/homemade-tools)
 - [Itch.io game projects](https://lolpotch.itch.io/)
 
 ## Certifications
