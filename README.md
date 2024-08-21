@@ -42,6 +42,7 @@ Other Projects:
 - [Vigtor - Password Generator](https://play.google.com/store/apps/details?id=com.Lolpotch.Vigtor&hl=en)
 - [HackTheBox walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrQ8sljBzZs7lblz0vgU5YnE)
 - [Homemade tools](https://github.com/Lolpotch/homemade-tools)
+- [Bug bounty hunt templates](https://github.com/Lolpotch/keepnote-bug-bounty-hunt-template)
 - [Itch.io game projects](https://lolpotch.itch.io/)
 
 ## Certifications
