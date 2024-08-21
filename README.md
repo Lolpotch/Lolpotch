@@ -34,6 +34,7 @@ Key Projects:
 - Intercepting traffic and injecting payloads via Burp Suite
 - Exploiting with Metasploit
 - Gaining access in Kioptrix
+- Injections (XSS, SQLi, CSRF, SSRF)
 
 Other Projects:
 - [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W)
