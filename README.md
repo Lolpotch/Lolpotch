@@ -40,9 +40,9 @@ Other Projects:
 - [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W)
 - [Linux tutorials](https://www.youtube.com/playlist?list=PLj8QP2AecOrQov8CAFWv65r0oR-ayWwg_)
 - [Vigtor - Password Generator](https://play.google.com/store/apps/details?id=com.Lolpotch.Vigtor&hl=en)
-- [HackTheBox walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrQ8sljBzZs7lblz0vgU5YnE)
-- [Homemade tools](https://github.com/Lolpotch/homemade-tools)
 - [Bug bounty hunt templates](https://github.com/Lolpotch/keepnote-bug-bounty-hunt-template)
+- [Homemade tools](https://github.com/Lolpotch/homemade-tools)
+- [HackTheBox walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrQ8sljBzZs7lblz0vgU5YnE)
 - [Itch.io game projects](https://lolpotch.itch.io/)
 
 ## Certifications
