@@ -50,11 +50,6 @@ Other Projects:
 <a href="https://verify.mygreatlearning.com/verify/EMDDXHGM"><img src="https://img.shields.io/badge/-Introduction_to_Ethical_Hacking-00C4CC?&style=for-the-badge&logo=Great-Learning&logoColor=white" /></a>
 </div>
 
-
-
-
-
-
-Bonus:
-I also loves game development, had some experiences with Unity game engine, and I'd love to do projects together, so please feel free to contact me :)
-[itch.io page](https://lolpotch.itch.io/)
+<br>
+Bonus:<br>
+I also loves game development, had some experiences with Unity game engine, and I'd love to do projects together, so please feel free to contact me :) [itch.io page](https://lolpotch.itch.io)
