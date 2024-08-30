@@ -52,4 +52,6 @@ Other Projects:
 
 <br>
 Bonus:<br>
-I also loves game development, had some experiences with Unity game engine, and I'd love to do projects together, so please feel free to contact me :) [itch.io page](https://lolpotch.itch.io)
+I also loves game development, had some experiences with Unity game engine, and I'd love to do projects together, so please feel free to contact me :)
+
+[itch.io page](https://lolpotch.itch.io)
