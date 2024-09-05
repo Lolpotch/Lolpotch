@@ -5,23 +5,22 @@
 <a href="https://lolpotch.itch.io"><img src="https://img.shields.io/badge/-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a><br>
 A networking and multimedia engineering student at Jakarta State Polytechnic, Currently learning and gaining professional certificates to boost his future career.
 
-I made some video game projects with Unity:
+Video game projects with Unity:
 - [Dash!](https://lolpotch.itch.io/dash)
 - [Clean It!](https://lolpotch.itch.io/clean-it)
 - [Typing Adventure](https://lolpotch.itch.io/typing-adventure)
 - [Unity Youtube Tutorials](https://www.youtube.com/playlist?list=PLj8QP2AecOrRF9quEOtF7EuQU6pVwovjQ)
 - [Vigtor - Password Generator](https://play.google.com/store/apps/details?id=com.Lolpotch.Vigtor&hl=en)
 
-I also won some competitions:
+Competitions:
 - 1st Winner of Lomba Cipta Game Nasional by Clevio Coder Camp (Game Developing Competition)
 - 2nd Winner of Code For Social Change 2021 by Clevio Coder Camp (Team Mobile App Competition)
 - MARKODING! Finalist
 
-
-
-Other Projects:
-- <a href="https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W">PicoCTF walkthroughs</a>
-- <a href="https://www.youtube.com/playlist?list=PLj8QP2AecOrQov8CAFWv65r0oR-ayWwg_">Linux tutorials</a>
-- <a href="https://www.youtube.com/playlist?list=PLj8QP2AecOrQ8sljBzZs7lblz0vgU5YnE">HackTheBox walkthroughs</a>
-
-
+Cybersecurity Projects:
+- Ethical Hacker Course by The Cyber Mentor (TCM)
+- Portswigger Labs
+- [Cisco Ethical Hacker Course](https://www.credly.com/badges/2fb9d430-e2ad-4f0a-82fb-7cceca54f414/public_url)
+- [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W)
+- [Linux Tutorials](https://www.youtube.com/playlist?list=PLj8QP2AecOrQov8CAFWv65r0oR-ayWwg_)
+- [HackTheBox Walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrQ8sljBzZs7lblz0vgU5YnE)
