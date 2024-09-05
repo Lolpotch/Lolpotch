@@ -2,7 +2,7 @@
 <a href="https://youtube.com/lolpotch"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://instagram.com/lolpotch"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://github.com/lolpotch"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-<a href="https://lolpotch.itch.io"><img src="https://img.shields.io/badge/-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a>
+<a href="https://lolpotch.itch.io"><img src="https://img.shields.io/badge/-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a><br>
 A networking and multimedia engineering student at Jakarta State Polytechnic, Currently learning and gaining professional certificates to boost his future career.
 
 I made some video game projects with Unity:
@@ -13,9 +13,11 @@ I made some video game projects with Unity:
 - [Vigtor - Password Generator](https://play.google.com/store/apps/details?id=com.Lolpotch.Vigtor&hl=en)
 
 I also won some competitions:
-- MARKODING! Finalist
+- 1st Winner of Lomba Cipta Game Nasional by Clevio Coder Camp (Game Developing Competition)
 - 2nd Winner of Code For Social Change 2021 by Clevio Coder Camp (Team Mobile App Competition)
-- 1st Winner of Lomba Cipta Game Nasional
+- MARKODING! Finalist
+
+
 
 Other Projects:
 - <a href="https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W">PicoCTF walkthroughs</a>
