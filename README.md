@@ -16,11 +16,13 @@ Competitions:
 - 1st Winner of Lomba Cipta Game Nasional by Clevio Coder Camp (Game Developing Competition)
 - 2nd Winner of Code For Social Change 2021 by Clevio Coder Camp (Team Mobile App Competition)
 - MARKODING! Finalist
+- Google Hackfest 2024 Participant
+- Cyber Competition Participant: KMIPN VI, GEMASTIK XVII, COMPFEST 16
 
 Cybersecurity Projects:
-- Ethical Hacker Course by The Cyber Mentor (TCM)
 - Portswigger Labs
 - [Cisco Ethical Hacker Course](https://www.credly.com/badges/2fb9d430-e2ad-4f0a-82fb-7cceca54f414/public_url)
+- [Ethical Hacker Course by The Cyber Mentor (TCM)](https://github.com/Lolpotch/keepnote-ethical-hacking-course-tcm)
 - [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W)
 - [Linux Tutorials](https://www.youtube.com/playlist?list=PLj8QP2AecOrQov8CAFWv65r0oR-ayWwg_)
 - [HackTheBox Walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrQ8sljBzZs7lblz0vgU5YnE)
