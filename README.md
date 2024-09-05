@@ -3,7 +3,7 @@
 <a href="https://instagram.com/lolpotch"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://github.com/lolpotch"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 <a href="https://lolpotch.itch.io"><img src="https://img.shields.io/badge/-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a><br>
-A networking and multimedia engineering student at Jakarta State Polytechnic, Currently learning and gaining professional certificates to boost his future career.
+A multimedia and networking engineering student at Jakarta State Polytechnic, Currently learning and gaining professional certificates to boost his future career.
 
 Video game projects with Unity:
 - [Dash!](https://lolpotch.itch.io/dash)
