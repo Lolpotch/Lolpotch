@@ -17,7 +17,7 @@ Competitions:
 - 2nd Winner of Code For Social Change 2021 by Clevio Coder Camp (Team Mobile App Competition)
 - MARKODING! Finalist
 - Google Hackfest 2024 Participant
-- Cyber Competition Participant: KMIPN VI, GEMASTIK XVII, COMPFEST 16
+- CTF Competition Participant: KMIPN VI, GEMASTIK XVII, COMPFEST 16
 
 Cybersecurity Projects:
 - Portswigger Labs
