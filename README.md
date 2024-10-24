@@ -10,7 +10,6 @@ Video game projects with Unity:
 - [Clean It!](https://lolpotch.itch.io/clean-it)
 - [Typing Adventure](https://lolpotch.itch.io/typing-adventure)
 - [Unity Youtube Tutorials](https://www.youtube.com/playlist?list=PLj8QP2AecOrRF9quEOtF7EuQU6pVwovjQ)
-- [Vigtor - Password Generator](https://play.google.com/store/apps/details?id=com.Lolpotch.Vigtor&hl=en)
 
 Competitions:
 - 1st Winner of Lomba Cipta Game Nasional by Clevio Coder Camp (Game Developing Competition)
@@ -20,6 +19,7 @@ Competitions:
 - CTF Competition Participant: KMIPN VI, GEMASTIK XVII, COMPFEST 16
 
 Cybersecurity Projects:
+- [Vigtor - Password Generator](https://play.google.com/store/apps/details?id=com.Lolpotch.Vigtor&hl=en)
 - Portswigger Labs
 - [Cisco Ethical Hacker Certificate](https://www.credly.com/badges/2fb9d430-e2ad-4f0a-82fb-7cceca54f414/public_url)
 - [Ethical Hacker Course by The Cyber Mentor (TCM)](https://github.com/Lolpotch/keepnote-ethical-hacking-course-tcm)
