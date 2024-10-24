@@ -20,9 +20,9 @@ Competitions:
 
 Cybersecurity Projects:
 - [Vigtor - Password Generator](https://play.google.com/store/apps/details?id=com.Lolpotch.Vigtor&hl=en)
-- [Portswigger Labs](https://github.com/Lolpotch/keepnote-portswigger-labs)
+- [Portswigger Labs](https://github.com/Lolpotch/keepnote-all/tree/main/portswigger%202)
 - [Cisco Ethical Hacker Certificate](https://www.credly.com/badges/2fb9d430-e2ad-4f0a-82fb-7cceca54f414/public_url)
-- [Ethical Hacker Course by The Cyber Mentor (TCM)](https://github.com/Lolpotch/keepnote-ethical-hacking-course-tcm)
+- [Ethical Hacker Course by The Cyber Mentor (TCM)](https://github.com/Lolpotch/keepnote-all/tree/main/tcm%20ethical%20hacker%20course)
 - [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W)
 - [Linux Tutorials](https://www.youtube.com/playlist?list=PLj8QP2AecOrQov8CAFWv65r0oR-ayWwg_)
 - [HackTheBox Walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrQ8sljBzZs7lblz0vgU5YnE)
