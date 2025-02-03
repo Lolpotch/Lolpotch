@@ -6,6 +6,7 @@
 <br>
 A multimedia and networking engineering student at Jakarta State Polytechnic, Currently learning and gaining professional certificates to boost his future career.
 <br>
+<br>
 | Video game projects<br>with Unity | Competitions | Cybersecurity Projects |
 |----------|----------|----------|
 | [Dash!](https://lolpotch.itch.io/dash)   | 1st Winner of Lomba Cipta Game Nasional<br>by Clevio Coder Camp (Game Jam Competition)   | [Vigtor - Password Generator](https://play.google.com/store/apps/details?id=com.Lolpotch.Vigtor&hl=en)   |
