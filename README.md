@@ -9,6 +9,7 @@ Video game projects with Unity:
 - [Dash!](https://lolpotch.itch.io/dash)
 - [Clean It!](https://lolpotch.itch.io/clean-it)
 - [Typing Adventure](https://lolpotch.itch.io/typing-adventure)
+- [Zero Click Threat](https://lolpotch.itch.io/zero-click-threat)
 - [Unity Youtube Tutorials](https://www.youtube.com/playlist?list=PLj8QP2AecOrRF9quEOtF7EuQU6pVwovjQ)
 
 Competitions:
