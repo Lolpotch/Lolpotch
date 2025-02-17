@@ -44,7 +44,7 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 <br>
 
 ### Independent Unity Programmer (2020 - Present)
-- Make several short games for competitions and personal projects in my [itch.io page](https://lolpotch.itch.io/).
+- Made several short games for competitions and personal projects in my [itch.io page](https://lolpotch.itch.io/).
 - 1st Winner of Lomba Cipta Game Nasional by Clevio Coder Camp (Game Jam Competition).
 <br>
 
