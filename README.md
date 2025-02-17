@@ -28,7 +28,7 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 - Mainly tests broken access control and XSS vulnerabilities on targets in bug bounty platforms.
 <br>
 
-### Cyber Division Member of Computer Student Club in Campus (2024 - 2025)
+### Cyber Division Member of Computer Student Club (2024 - 2025)
 - Learned basic networking, penetration testing methods.
 - Participated in several National CTF Competitions (KMIPN VI, GEMASTIK XVII, COMPFEST 16).
 ### President of Computer Student Club (2025 - Present)
