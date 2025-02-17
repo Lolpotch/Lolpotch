@@ -3,7 +3,7 @@
 <a href="https://instagram.com/lolpotch"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://github.com/lolpotch"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 <a href="https://lolpotch.itch.io"><img src="https://img.shields.io/badge/-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a><br>
-<br>
+
 # Programmer | Bug Hunter
 A multimedia and networking engineering student at Jakarta State Polytechnic, Currently learning and gaining professional experiences to boost his future career.
 
@@ -22,10 +22,16 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 ----
 
 ## Experiences:
-### Bug hunting at Indonesian Government Websites and Bug Bounty Platforms (2025 - present)
+### Freelance Bug Hunting (2025 - present)
 - Finds vulnerables directories (cgi-bin/printenv.pl, info.php) in *.go.id domains.
 - FInds PII disclosure in *.go.id domains.
 - Mainly tests broken access control and XSS vulnerabilities on targets in bug bounty platforms.
+<br>
+
+### Cyber Division Member of Computer Student Club in Campus (2024 - 2025)
+- Learned basic networking, penetration testing methods.
+- Participated in several National CTF Competitions (KMIPN VI, GEMASTIK XVII, COMPFEST 16).
+### President of Computer Student Club (2025 - Present)
 <br>
 
 ### Roblox Studio Tutor at Kodland (2024 - present)
@@ -35,14 +41,6 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 
 ### Private Pictoblox Mentor for Kids Competition (2024-2025)
 - Assisted a kid creating his project in Pictoblox 
-<br>
-
-### President of Computer Student Club in Campus (2025 - Present)
-<br>
-
-### Cyber Division Member of Computer Student Club in Campus (2024 - 2025)
-- Learned basic networking, penetration testing methods.
-- Participated in several National CTF Competitions (KMIPN VI, GEMASTIK XVII, COMPFEST 16).
 <br>
 
 ### Independent Unity Programmer (2020 - Present)
