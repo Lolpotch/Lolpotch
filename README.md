@@ -28,7 +28,7 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 - Mainly tests broken access control and XSS vulnerabilities on targets in bug bounty platforms.
 <br>
 
-### Cyber Division Member of Computer Student Club (2024 - 2025)
+### Cyber Division Member of Computer Student Club (2024)
 - Learned basic networking, penetration testing methods.
 - Participated in several National CTF Competitions (KMIPN VI, GEMASTIK XVII, COMPFEST 16).
 ### President of Computer Student Club (2025 - Present)
@@ -57,10 +57,11 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 
 ### Cybersecurity Projects:
 - [Bug Hunting Certificates](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/)
+- [Redlimit Bootcamp](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/)
 - [Vigtor - Password Generator](https://play.google.com/store/apps/details?id=com.Lolpotch.Vigtor&hl=en)
-- [Portswigger Labs (note)](https://github.com/Lolpotch/keepnote-all/tree/main/portswigger%202)
+- [Portswigger Labs (note)](https://github.com/Lolpotch/keepnote-portswigger-labs)
 - [Cisco Ethical Hacker Course Certificate](https://www.credly.com/badges/2fb9d430-e2ad-4f0a-82fb-7cceca54f414/public_url)
-- [Ethical Hacker Course by TCM (note)](https://github.com/Lolpotch/keepnote-all/tree/main/tcm%20ethical%20hacker%20course)
+- [Ethical Hacker Course by TCM (note)](https://github.com/Lolpotch/keepnote-cisco-ethical-hacker)
 - [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W)
 
 ### Video game projects:
