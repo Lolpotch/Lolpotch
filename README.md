@@ -78,3 +78,7 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 - Google Hackfest 2024 Participant
 - CTF Competition Participant: KMIPN VI, GEMASTIK XVII, COMPFEST 16
 
+### Fun :)
+- [My Favorite Slides](https://github.com/Lolpotch/my-favorite-slides)
+- [Jactice - Japanese Practice](https://lolpotch.github.io/jactice/)
+- [Homemade Tools](https://github.com/Lolpotch/homemade-tools)
