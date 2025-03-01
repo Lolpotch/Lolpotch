@@ -58,7 +58,7 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 ### Cybersecurity Projects:
 - [Bug Hunting Certificates](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/)
 - [Redlimit Bootcamp](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/)
-- [Vigtor - Password Generator](https://play.google.com/store/apps/details?id=com.Lolpotch.Vigtor&hl=en)
+- [Vigtor - Password Generator](https://github.com/Lolpotch/vigenere-cipher)
 - [Portswigger Labs (note)](https://github.com/Lolpotch/keepnote-portswigger-labs)
 - [Cisco Ethical Hacker Course Certificate](https://www.credly.com/badges/2fb9d430-e2ad-4f0a-82fb-7cceca54f414/public_url)
 - [Ethical Hacker Course by TCM (note)](https://github.com/Lolpotch/keepnote-cisco-ethical-hacker)
