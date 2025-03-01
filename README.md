@@ -23,8 +23,8 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 
 ## Experiences:
 ### Freelance Bug Hunting (2025 - present)
-- Finds vulnerables directories (cgi-bin/printenv.pl, info.php) in *.go.id domains.
-- FInds PII disclosure in *.go.id domains.
+- Finds vulnerable directories (cgi-bin/printenv.pl, info.php) in *.go.id domains.
+- FInds PII disclosures in *.go.id domains.
 - Mainly tests broken access control and XSS vulnerabilities on targets in bug bounty platforms.
 <br>
 
@@ -39,13 +39,14 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 - Highlighted in "Tutors of the Week" for actively involving students during his class session.
 <br>
 
-### Private Pictoblox Mentor for Kids Competition (2024-2025)
-- Assisted a kid creating his project in Pictoblox 
+### Private Pictoblox Tutor (2024-2025)
+- Assisted a kid creating his project in Pictoblox for a competition 
 <br>
 
 ### Independent Unity Programmer (2020 - Present)
 - Made several short games for competitions and personal projects in my [itch.io page](https://lolpotch.itch.io/).
 - 1st Winner of Lomba Cipta Game Nasional by Clevio Coder Camp (Game Jam Competition).
+- 2nd Winner of Code For Social Change Festival by Clevio Coder Camp (Mobile App Competition)
 <br>
 
 ### Smart Hydroponic Project utilizing Arduino (2024)
