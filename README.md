@@ -31,6 +31,7 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 ### Cyber Division Member of Computer Student Club (2024)
 - Learned basic networking, penetration testing methods.
 - Participated in several National CTF Competitions (KMIPN VI, GEMASTIK XVII, COMPFEST 16).
+- Moderator of speakers in cybersecurity-themed seminars.
 ### President of Computer Student Club (2025 - Present)
 <br>
 
