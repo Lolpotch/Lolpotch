@@ -58,8 +58,8 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 ----------------
 
 ### Cybersecurity Projects:
-- [Bug Hunting Certificates](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/)
-- [Redlimit Pentest Bootcamp Certificate](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/)
+- [Bug Hunting Certificates](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/recent-activity/documents/)
+- [Redlimit Pentest Bootcamp Certificate](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/recent-activity/documents/)
 - [Vigtor - Password Generator](https://github.com/Lolpotch/vigenere-cipher)
 - [Cisco Ethical Hacker Course Certificate](https://www.credly.com/badges/2fb9d430-e2ad-4f0a-82fb-7cceca54f414/public_url)
 - [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W)
@@ -84,3 +84,4 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 - [My Favorite Slides](https://github.com/Lolpotch/my-favorite-slides)
 - [Jactice - Japanese Practice](https://lolpotch.github.io/jactice/)
 - [Homemade Tools](https://github.com/Lolpotch/homemade-tools)
+- [Certifications](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/details/certifications/)
