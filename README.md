@@ -27,13 +27,6 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 - Mainly tests broken access control and XSS vulnerabilities on targets in bug bounty platforms.
 <br>
 
-### Cyber Division Member of Computer Student Club (2024)
-- Learned basic networking, penetration testing methods.
-- Participated in several National CTF Competitions (KMIPN VI, GEMASTIK XVII, COMPFEST 16).
-- Moderator of speakers in cybersecurity-themed seminars.
-### President of Computer Student Club (2025 - Present)
-<br>
-
 ### Independent Unity Programmer (2020 - Present)
 - Working on project "[Fondness in Riveries](https://github.com/rifkisetiawan0101/Fondness-In-Riveries)", a game featuring its story.
 - Made several short games for competitions and personal projects in my [itch.io page](https://lolpotch.itch.io/).
@@ -44,6 +37,13 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 - Made Unity tutorials on [Youtube](https://www.youtube.com/playlist?list=PLj8QP2AecOrRF9quEOtF7EuQU6pVwovjQ)
 - 1st Winner of Lomba Cipta Game Nasional by Clevio Coder Camp (National Game Jam Competition).
 - 2nd Winner of Code For Social Change Festival by Clevio Coder Camp (National Mobile App Competition)
+<br>
+
+### Cyber Division Member of Computer Student Club (2024)
+- Learned basic networking, penetration testing methods.
+- Participated in several National CTF Competitions (KMIPN VI, GEMASTIK XVII, COMPFEST 16).
+- Moderator of speakers in cybersecurity-themed seminars.
+### President of Computer Student Club (2025 - Present)
 <br>
 
 ### Roblox Studio Tutor at Kodland (2024 - present)
