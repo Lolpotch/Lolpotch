@@ -35,10 +35,13 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 <br>
 
 ### Independent Unity Programmer (2020 - Present)
+- Working on project "[Fondness in Riveries](https://github.com/rifkisetiawan0101/Fondness-In-Riveries)", a game featuring its story.
 - Made several short games for competitions and personal projects in my [itch.io page](https://lolpotch.itch.io/).
-- "Dash!", an endless game featuring rope and physics as its main mechanics.
-- "Clean It!" a pixel-animated, platformer game about a working medic in covid period.
-- "Typing Adventure" a short story-based game featuring typing as its main mechanic fighting monsters.
+- "[Dash!](https://lolpotch.itch.io/dash)", an endless game featuring rope and physics as its main mechanics.
+- "[Clean It!](https://lolpotch.itch.io/clean-it)", a pixel-animated, platformer game about a working medic in covid period.
+- "[Typing Adventure](https://lolpotch.itch.io/typing-adventure)", a short story-based game featuring typing as its main mechanic fighting monsters.
+- "[Zero Click Threat](https://lolpotch.itch.io/zero-click-threat)", a desktop-simulation game managing emails and preventing cyber attacks.
+- Made Unity tutorials on [Youtube](https://www.youtube.com/playlist?list=PLj8QP2AecOrRF9quEOtF7EuQU6pVwovjQ)
 - 1st Winner of Lomba Cipta Game Nasional by Clevio Coder Camp (National Game Jam Competition).
 - 2nd Winner of Code For Social Change Festival by Clevio Coder Camp (National Mobile App Competition)
 <br>
