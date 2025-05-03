@@ -13,12 +13,11 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 - Kali Linux
 - Burp Suite
 - Owasp ZAP
+- Unity
 - Wireshark
 - VMWare
 - Windows Subsystem Linux
 - AI Chatbots
-- Unity
-
 ----
 
 ## Experiences:
@@ -35,6 +34,15 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 ### President of Computer Student Club (2025 - Present)
 <br>
 
+### Independent Unity Programmer (2020 - Present)
+- Made several short games for competitions and personal projects in my [itch.io page](https://lolpotch.itch.io/).
+- "Dash!", an endless game featuring rope and physics as its main mechanics.
+- "Clean It!" a pixel-animated, platformer game about a working medic in covid period.
+- "Typing Adventure" a short story-based game featuring typing as its main mechanic fighting monsters.
+- 1st Winner of Lomba Cipta Game Nasional by Clevio Coder Camp (National Game Jam Competition).
+- 2nd Winner of Code For Social Change Festival by Clevio Coder Camp (National Mobile App Competition)
+<br>
+
 ### Roblox Studio Tutor at Kodland (2024 - present)
 - Teaching Roblox Studio for 10 - 12 years old kids.
 - Highlighted in "Tutors of the Week" for actively involving students during his class session.
@@ -42,12 +50,6 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 
 ### Private Pictoblox Tutor (2024-2025)
 - Assisted a kid creating his project in Pictoblox for a competition 
-<br>
-
-### Independent Unity Programmer (2020 - Present)
-- Made several short games for competitions and personal projects in my [itch.io page](https://lolpotch.itch.io/).
-- 1st Winner of Lomba Cipta Game Nasional by Clevio Coder Camp (Game Jam Competition).
-- 2nd Winner of Code For Social Change Festival by Clevio Coder Camp (Mobile App Competition)
 <br>
 
 ### Smart Hydroponic Project utilizing Arduino (2024)
