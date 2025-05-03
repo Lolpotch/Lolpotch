@@ -22,8 +22,10 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 
 ## Experiences:
 ### Freelance Bug Hunting (2025 - present)
-- Finds vulnerable directories (cgi-bin/printenv.pl, info.php) in *.go.id domains.
-- FInds PII disclosures in *.go.id domains.
+- Enrolled Pentest Bootcamp from RedLimit, featuring its real-case practice.
+- Finds vulnerable directories in *.go.id domains and rewarded certificates.
+- FInds PII disclosures in *.go.id domains and rewarded certificates.
+- [Bug hunting certificates](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/recent-activity/documents/)
 - Mainly tests broken access control and XSS vulnerabilities on targets in bug bounty platforms.
 <br>
 
