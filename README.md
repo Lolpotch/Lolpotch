@@ -28,7 +28,7 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 <br>
 
 ### Independent Unity Programmer (2020 - Present)
-- Working on project "[Fondness in Riveries](https://github.com/rifkisetiawan0101/Fondness-In-Riveries)", a game featuring its story.
+- Working on team project "[Fondness in Riveries](https://github.com/rifkisetiawan0101/Fondness-In-Riveries)", a game featuring its story.
 - Made several short games for competitions and personal projects in my [itch.io page](https://lolpotch.itch.io/).
 - "[Dash!](https://lolpotch.itch.io/dash)", an endless game featuring rope and physics as its main mechanics.
 - "[Clean It!](https://lolpotch.itch.io/clean-it)", a pixel-animated, platformer game about a working medic in covid period.
