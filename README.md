@@ -35,6 +35,7 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 - [Jakarta CSIRT Certificate](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7303750179063504896-Dx_c?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU)
 - [Gunungkidul Kab CSIRT Certificate](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7303029731786924032-gk5g?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU)
 - [Cisco Ethical Hacker Course Certificate](https://www.credly.com/badges/2fb9d430-e2ad-4f0a-82fb-7cceca54f414/public_url)
+- [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W)
 <br>
 
 ### Cyber Division Member of Computer Student Club (2024)
@@ -44,9 +45,13 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 ### President of Computer Student Club (2025 - Present)
 <br>
 
-### Roblox Studio Tutor at Kodland (2024 - present)
+### Python Tutor at Kodland (2025 - present)
 - Teaching Roblox Studio for 10 - 12 years old kids.
 - Highlighted in "Tutors of the Week" for actively involving students during his class session.
+<br>
+
+### Roblox Studio Tutor at Kodland (2024 - present)
+- Teaching Roblox Studio for 13 - 17 years old kids.
 <br>
 
 ### Private Pictoblox Tutor (2024-2025)
