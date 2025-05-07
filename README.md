@@ -51,7 +51,7 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 <br>
 
 ### Roblox Studio Tutor at Kodland (2024 - present)
-- Teaching Roblox Studio for 13 - 17 years old kids.
+- Teaching Programming in Python for 13 - 17 years old kids.
 <br>
 
 ### Private Pictoblox Tutor (2024-2025)
