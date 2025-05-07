@@ -9,25 +9,7 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 
 ---
 
-## Softwares:
-- Kali Linux
-- Burp Suite
-- Owasp ZAP
-- Unity
-- Wireshark
-- VMWare
-- Windows Subsystem Linux
-- AI Chatbots
-----
-
 ## Experiences:
-### Freelance Bug Hunting (2025 - present)
-- Enrolled Pentest Bootcamp from RedLimit, featuring its real-case practice.
-- Finds vulnerable directories in *.go.id domains and rewarded certificates.
-- FInds PII disclosures in *.go.id domains and rewarded certificates.
-- [Bug hunting certificates](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/recent-activity/documents/)
-- Mainly tests broken access control and XSS vulnerabilities on public bug bounty targets.
-<br>
 
 ### Independent Unity Programmer (2020 - Present)
 - Working on team project "[Fondness in Riveries](https://github.com/rifkisetiawan0101/Fondness-In-Riveries)", a game featuring its story.
@@ -39,6 +21,20 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 - Made Unity tutorials on [Youtube](https://www.youtube.com/playlist?list=PLj8QP2AecOrRF9quEOtF7EuQU6pVwovjQ)
 - 1st Winner of Lomba Cipta Game Nasional by Clevio Coder Camp (National Game Jam Competition).
 - 2nd Winner of Code For Social Change Festival by Clevio Coder Camp (National Mobile App Competition)
+<br>
+
+### Freelance Bug Hunting (2025 - present)
+- Enrolled Pentest [Bootcamp from RedLimit](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7295604269078953984-fMQK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU), featuring its real-case practice.
+- Finds vulnerable directories in *.go.id domains and rewarded certificates.
+- FInds PII disclosures in *.go.id domains and rewarded certificates.
+- Mainly tests broken access control and XSS vulnerabilities on public bug bounty targets.
+- [Bug hunting certificates](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/recent-activity/documents/)
+- [KPK CSIRT Certificate](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7319909937759825920-d-9x?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU)
+- [Bantul Gov CSIRT Certificate](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7309555769098543105-CRv1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU)
+- [Diskominfo DIY Certificate](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7306859556905566208-Fxjb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU)
+- [Jakarta CSIRT Certificate](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7303750179063504896-Dx_c?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU)
+- [Gunungkidul Kab CSIRT Certificate](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7303029731786924032-gk5g?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU)
+- [Cisco Ethical Hacker Course Certificate](https://www.credly.com/badges/2fb9d430-e2ad-4f0a-82fb-7cceca54f414/public_url)
 <br>
 
 ### Cyber Division Member of Computer Student Club (2024)
