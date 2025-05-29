@@ -21,7 +21,14 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 - Made Unity tutorials on [Youtube](https://www.youtube.com/playlist?list=PLj8QP2AecOrRF9quEOtF7EuQU6pVwovjQ)
 - 1st Winner of Lomba Cipta Game Nasional by Clevio Coder Camp (National Game Jam Competition).
 - 2nd Winner of Code For Social Change Festival by Clevio Coder Camp (National Mobile App Competition)
+<img src="https://github.com/user-attachments/assets/6f88b8bc-86ec-4915-88e2-b1ee723afd49" width="150"/>
+<img src="https://github.com/user-attachments/assets/0d1b3b06-2c7e-46db-94ea-732d73e6f29c" width="150"/>
+<img src="https://github.com/user-attachments/assets/5ce2b40b-68aa-4cfd-b244-5322e087f221" width="150"/>
+<img src="https://github.com/user-attachments/assets/e0a7258c-bee6-42da-a000-daea0c6a9a97" width="150"/>
+
+
 <br>
+
 
 ### Freelance Bug Hunting (2025 - present)
 - Mainly tests broken access control and XSS vulnerabilities on public bug bounty targets.
@@ -36,6 +43,10 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 - [Gunungkidul Kab CSIRT Certificate](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7303029731786924032-gk5g?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU)
 - [Cisco Ethical Hacker Course Certificate](https://www.credly.com/badges/2fb9d430-e2ad-4f0a-82fb-7cceca54f414/public_url)
 - [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W)
+<img src="https://github.com/user-attachments/assets/5980bd7a-f3b0-4a22-b82c-2688041fe130" width="150"/>
+<img src="https://github.com/user-attachments/assets/a9ff143e-efb3-4c2a-99df-119f454bfe6d" width="150"/>
+<img src="https://github.com/user-attachments/assets/7e8ac510-48ff-444e-9dbd-078a66ebb680" width="150"/>
+
 <br>
 
 ### Python Tutor at Kodland (2025 - present)
