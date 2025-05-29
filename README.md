@@ -24,10 +24,10 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 <br>
 
 ### Freelance Bug Hunting (2025 - present)
-- Enrolled Pentest [Bootcamp from RedLimit](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7295604269078953984-fMQK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU), featuring its real-case practice.
+- Mainly tests broken access control and XSS vulnerabilities on public bug bounty targets.
 - Finds vulnerable directories in *.go.id domains and rewarded certificates.
 - FInds PII disclosures in *.go.id domains and rewarded certificates.
-- Mainly tests broken access control and XSS vulnerabilities on public bug bounty targets.
+- Enrolled Pentest [Bootcamp from RedLimit](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7295604269078953984-fMQK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU), featuring its real-case practice.
 - [Bug hunting certificates](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/recent-activity/documents/)
 - [KPK CSIRT Certificate](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7319909937759825920-d-9x?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU)
 - [Bantul Gov CSIRT Certificate](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7309555769098543105-CRv1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU)
@@ -38,13 +38,6 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 - [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W)
 <br>
 
-### Cyber Division Member of Computer Student Club (2024)
-- Learned basic networking, penetration testing methods.
-- Participated in several National CTF Competitions (KMIPN VI, GEMASTIK XVII, COMPFEST 16).
-- Moderator of speakers in cybersecurity-themed seminars.
-### President of Computer Student Club (2025 - Present)
-<br>
-
 ### Python Tutor at Kodland (2025 - present)
 - Teaching Programming in Python for 13 - 17 years old kids.
 <br>
@@ -52,6 +45,13 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 ### Roblox Studio Tutor at Kodland (2024 - present)
 - Teaching Roblox Studio for 10 - 12 years old kids.
 - Highlighted in "Tutors of the Week" for actively involving students during his class session.
+<br>
+
+### Cyber Division Member of Computer Student Club (2024)
+- Learned basic networking, penetration testing methods.
+- Participated in several National CTF Competitions (KMIPN VI, GEMASTIK XVII, COMPFEST 16).
+- Moderator of speakers in cybersecurity-themed seminars.
+### President of Computer Student Club (2025 - Present)
 <br>
 
 ### Private Pictoblox Tutor (2024-2025)
