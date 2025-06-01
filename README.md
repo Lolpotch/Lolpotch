@@ -36,15 +36,13 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 - FInds PII disclosures in *.go.id domains and rewarded certificates.
 - Enrolled Pentest [Bootcamp from RedLimit](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7295604269078953984-fMQK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU), featuring its real-case practice.
 - [Bug hunting certificates](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/recent-activity/documents/)
-- [KPK CSIRT Certificate](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7319909937759825920-d-9x?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU)
-- [Bantul Gov CSIRT Certificate](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7309555769098543105-CRv1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU)
-- [Diskominfo DIY Certificate](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7306859556905566208-Fxjb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU)
-- [Jakarta CSIRT Certificate](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7303750179063504896-Dx_c?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU)
-- [Gunungkidul Kab CSIRT Certificate](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7303029731786924032-gk5g?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU)
+- [Certified Network Security Practicioner (CNSP)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXZITQydM4ZOIBxOWM4NiMmKKYRBAfb4wuhG1R2cZxZqnu2C7VRBwfOcLGvQ7iB2Lflf5qmLM4nN9S85aqPFQSko=)
 - [Cisco Ethical Hacker Course Certificate](https://www.credly.com/badges/2fb9d430-e2ad-4f0a-82fb-7cceca54f414/public_url)
 - [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W)
 <img src="https://github.com/user-attachments/assets/5980bd7a-f3b0-4a22-b82c-2688041fe130" width="150"/>
 <img src="https://github.com/user-attachments/assets/a9ff143e-efb3-4c2a-99df-119f454bfe6d" width="150"/>
+<img src="https://github.com/user-attachments/assets/169650d4-34bc-4166-9f27-ca53447d2edb" width="150"/>
+
 <img src="https://github.com/user-attachments/assets/7e8ac510-48ff-444e-9dbd-078a66ebb680" width="150"/>
 
 <br>
