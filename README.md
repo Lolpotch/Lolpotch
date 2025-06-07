@@ -39,10 +39,9 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 - [Certified Network Security Practicioner (CNSP)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXZITQydM4ZOIBxOWM4NiMmKKYRBAfb4wuhG1R2cZxZqnu2C7VRBwfOcLGvQ7iB2Lflf5qmLM4nN9S85aqPFQSko=)
 - [Cisco Ethical Hacker Course Certificate](https://www.credly.com/badges/2fb9d430-e2ad-4f0a-82fb-7cceca54f414/public_url)
 - [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W)
+<img src="https://github.com/user-attachments/assets/169650d4-34bc-4166-9f27-ca53447d2edb" width="150"/>
 <img src="https://github.com/user-attachments/assets/5980bd7a-f3b0-4a22-b82c-2688041fe130" width="150"/>
 <img src="https://github.com/user-attachments/assets/a9ff143e-efb3-4c2a-99df-119f454bfe6d" width="150"/>
-<img src="https://github.com/user-attachments/assets/169650d4-34bc-4166-9f27-ca53447d2edb" width="150"/>
-
 <img src="https://github.com/user-attachments/assets/7e8ac510-48ff-444e-9dbd-078a66ebb680" width="150"/>
 
 <br>
