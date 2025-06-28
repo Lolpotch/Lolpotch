@@ -32,8 +32,7 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 
 ### Freelance Bug Hunting (2025 - present)
 - Mainly tests broken access control and XSS vulnerabilities on public bug bounty targets.
-- Finds vulnerable directories in *.go.id domains and rewarded certificates.
-- FInds PII disclosures in *.go.id domains and rewarded certificates.
+- Finds vulnerabilities goverment domains and rewarded certificates.
 - Enrolled Pentest [Bootcamp from RedLimit](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7295604269078953984-fMQK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU), featuring its real-case practice.
 - [Bug hunting certificates](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/recent-activity/documents/)
 - [Certified Network Security Practicioner (CNSP)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXZITQydM4ZOIBxOWM4NiMmKKYRBAfb4wuhG1R2cZxZqnu2C7VRBwfOcLGvQ7iB2Lflf5qmLM4nN9S85aqPFQSko=)
