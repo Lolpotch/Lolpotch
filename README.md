@@ -11,6 +11,21 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 
 ## Experiences:
 
+### Freelance Bug Hunting (2025 - present)
+- Mainly tests broken access control and XSS vulnerabilities on public bug bounty targets.
+- Finds vulnerabilities goverment domains and rewarded certificates.
+- Enrolled Pentest [Bootcamp from RedLimit](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7295604269078953984-fMQK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU), featuring its real-case practice.
+- [Bug hunting certificates](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/recent-activity/documents/)
+- [Certified Network Security Practicioner (CNSP)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXZITQydM4ZOIBxOWM4NiMmKKYRBAfb4wuhG1R2cZxZqnu2C7VRBwfOcLGvQ7iB2Lflf5qmLM4nN9S85aqPFQSko=)
+- [Cisco Ethical Hacker Course Certificate](https://www.credly.com/badges/2fb9d430-e2ad-4f0a-82fb-7cceca54f414/public_url)
+- [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W)
+<img src="https://github.com/user-attachments/assets/169650d4-34bc-4166-9f27-ca53447d2edb" width="150"/>
+<img src="https://github.com/user-attachments/assets/5980bd7a-f3b0-4a22-b82c-2688041fe130" width="150"/>
+<img src="https://github.com/user-attachments/assets/a9ff143e-efb3-4c2a-99df-119f454bfe6d" width="150"/>
+<img src="https://github.com/user-attachments/assets/7e8ac510-48ff-444e-9dbd-078a66ebb680" width="150"/>
+
+<br>
+
 ### Independent Unity Programmer (2020 - Present)
 - Working on team project "[Fondness in Riveries](https://github.com/rifkisetiawan0101/Fondness-In-Riveries)", a game featuring its story about motherhood.
 - Made several short games for competitions and personal projects in my [itch.io page](https://lolpotch.itch.io/).
@@ -25,23 +40,6 @@ A multimedia and networking engineering student at Jakarta State Polytechnic, Cu
 <img src="https://github.com/user-attachments/assets/0d1b3b06-2c7e-46db-94ea-732d73e6f29c" width="150"/>
 <img src="https://github.com/user-attachments/assets/5ce2b40b-68aa-4cfd-b244-5322e087f221" width="150"/>
 <img src="https://github.com/user-attachments/assets/e0a7258c-bee6-42da-a000-daea0c6a9a97" width="150"/>
-
-
-<br>
-
-
-### Freelance Bug Hunting (2025 - present)
-- Mainly tests broken access control and XSS vulnerabilities on public bug bounty targets.
-- Finds vulnerabilities goverment domains and rewarded certificates.
-- Enrolled Pentest [Bootcamp from RedLimit](https://www.linkedin.com/posts/chandra-tritaqwa-ramadhan_activity-7295604269078953984-fMQK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtwr9wByyCc71TIJc6bnYCRw6_wh8xASXU), featuring its real-case practice.
-- [Bug hunting certificates](https://www.linkedin.com/in/chandra-tritaqwa-ramadhan/recent-activity/documents/)
-- [Certified Network Security Practicioner (CNSP)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXZITQydM4ZOIBxOWM4NiMmKKYRBAfb4wuhG1R2cZxZqnu2C7VRBwfOcLGvQ7iB2Lflf5qmLM4nN9S85aqPFQSko=)
-- [Cisco Ethical Hacker Course Certificate](https://www.credly.com/badges/2fb9d430-e2ad-4f0a-82fb-7cceca54f414/public_url)
-- [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PLj8QP2AecOrTgQdxJ6rQ3hhjnMboQGR4W)
-<img src="https://github.com/user-attachments/assets/169650d4-34bc-4166-9f27-ca53447d2edb" width="150"/>
-<img src="https://github.com/user-attachments/assets/5980bd7a-f3b0-4a22-b82c-2688041fe130" width="150"/>
-<img src="https://github.com/user-attachments/assets/a9ff143e-efb3-4c2a-99df-119f454bfe6d" width="150"/>
-<img src="https://github.com/user-attachments/assets/7e8ac510-48ff-444e-9dbd-078a66ebb680" width="150"/>
 
 <br>
 
